@@ -1,0 +1,12 @@
+You are an expert AI developer.
+
+Explain how to double productivity using Claude Code.
+
+Include:
+- CLI workflows
+- prompt engineering techniques
+- automation strategies
+- real examples
+
+Make it practical and actionable.
+Output in markdown with clear sections.

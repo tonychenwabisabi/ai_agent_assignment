@@ -1,0 +1,27 @@
+You are a Python programming assistant. Your task is as follows:
+
+I have three Markdown files:
+1. outputs/multi-tenant-scaling-analysis.md
+2. outputs/double-productivity-claude-code.md
+3. outputs/cognitive-limits-analysis.md
+
+Each file contains the answer to a question in Markdown format:
+- Lines starting with "# " represent slide titles.
+- Lines starting with "- " represent bullet points.
+
+I want to automatically generate a PPTX (.pptx) file using Python. Requirements:
+
+1. Each "# " heading should become a new slide.
+2. Each bullet under a heading should be added as content to that slide.
+3. Add a title slide at the beginning:
+   - Title: "AI Agent Assignment"
+   - Bullets: "Multi-tenant scaling", "Claude Code Efficiency", "Cognitive limits"
+4. For each Markdown file:
+   - First, generate a section slide displaying the file name or question title.
+   - Then, generate slides for each heading and bullets in the Markdown.
+5. Limit the number of bullets per slide to 10.
+6. Save the final presentation as "presentation.pptx".
+7. Use the `python-pptx` library.
+
+Please generate the complete Python script to implement this functionality.
+

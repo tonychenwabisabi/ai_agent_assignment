@@ -1,0 +1,7 @@
+Write a deep analysis:
+"How to ensure our cognitive limits are not the bottleneck of what we build"
+Include:
+- human-AI collaboration
+- system design thinking
+- use of agents examples from real-world AI teams   
+Output in markdown with clear sections.
